@@ -13,6 +13,7 @@
 		AC2DF4B924969AA700E7EE70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC2DF4B824969AA700E7EE70 /* Assets.xcassets */; };
 		AC2DF4BC24969AA700E7EE70 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC2DF4BB24969AA700E7EE70 /* Preview Assets.xcassets */; };
 		AC2DF4BF24969AA700E7EE70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC2DF4BD24969AA700E7EE70 /* LaunchScreen.storyboard */; };
+		AC2DF4E92496BC2D00E7EE70 /* ImageCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DF4E82496BC2D00E7EE70 /* ImageCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC2DF4BB24969AA700E7EE70 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AC2DF4BE24969AA700E7EE70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC2DF4C024969AA700E7EE70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC2DF4E82496BC2D00E7EE70 /* ImageCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AC2DF4B224969AA500E7EE70 /* AppDelegate.swift */,
 				AC2DF4B424969AA500E7EE70 /* SceneDelegate.swift */,
 				AC2DF4B624969AA500E7EE70 /* ContentView.swift */,
+				AC2DF4E82496BC2D00E7EE70 /* ImageCard.swift */,
 				AC2DF4B824969AA700E7EE70 /* Assets.xcassets */,
 				AC2DF4BD24969AA700E7EE70 /* LaunchScreen.storyboard */,
 				AC2DF4C024969AA700E7EE70 /* Info.plist */,
@@ -149,6 +152,7 @@
 				AC2DF4B324969AA500E7EE70 /* AppDelegate.swift in Sources */,
 				AC2DF4B524969AA500E7EE70 /* SceneDelegate.swift in Sources */,
 				AC2DF4B724969AA500E7EE70 /* ContentView.swift in Sources */,
+				AC2DF4E92496BC2D00E7EE70 /* ImageCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
